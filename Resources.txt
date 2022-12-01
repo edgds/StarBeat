@@ -1,0 +1,47 @@
+Images used:
+BtS logo-
+https://www.stickermule.com/products/clear-stickers?utm_source=bing&utm_medium=cpc&src=BING&cid=281412374&msclkid=0e05eedd60ad1504859c8c5d0be727f5&utm_campaign=US%20%7C%20Stickers%20Broad%20(Beta)&utm_term=custom%20transparent%20stickers&utm_content=Custom%20stickers%20-%20transparent%20(phrase)
+
+holographic star1/star 2-
+https://wallpaperaccess.com/iridescent-stars
+
+moon 1-
+https://www.bing.com/images/search?view=detailV2&ccid=BgQCvRUu&id=83EB8E86FC483D710A861BE5E4AD7770E2E6DB62&thid=OIP.BgQCvRUusIynIJwYhN667gHaHa&mediaurl=https%3a%2f%2fcdn130.picsart.com%2f264036066016212.png%3fr1024x1024&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.060402bd152eb08ca7209c1884debaee%3frik%3dYtvm4nB3reTlGw%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=vaporwave+moon+trasnparent&simid=608050340161866263&FORM=IRPRST&ck=07A90F866E1506FF3940AEB5D359979E&selectedIndex=7&ajaxhist=0&ajaxserp=0
+
+moon 2-
+https://www.bing.com/images/search?view=detailV2&ccid=zKa9HjkP&id=E98F0F15197C4F62E93125571F130496A646A3BF&thid=OIP.zKa9HjkPALs8vSJoLSuJYAAAAA&mediaurl=https%3a%2f%2fdata.whicdn.com%2fimages%2f73347115%2foriginal.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cca6bd1e390f00bb3cbd22682d2b8960%3frik%3dv6NGppYEEx9XJQ%26pid%3dImgRaw%26r%3d0&exph=401&expw=413&q=Holographic+moon+PNG&simid=608025626922584821&FORM=IRPRST&ck=6A416E892D32DC9FA7C08BD5C694E484&selectedIndex=42&ajaxhist=0&ajaxserp=0
+
+Imagine Dragon logo-
+https://www.pngall.com/imagine-dragons-png
+
+Audio/midi files:
+
+burst sound effects:
+https://mixkit.co/free-sound-effects/magic/
+
+DADADADADADA Audio-
+https://youtu.be/RawsoZjbHHY
+
+BTS Butter Midi-
+https://youtu.be/7GybQa95HaA
+BTS audio-
+https://youtu.be/Uz0PppyT7Cc
+
+Believer Midi-
+https://freemidi.org/download3-25945-believer-imagine-dragons
+Believer Audio-
+https://youtu.be/BKVIyxQfrJc
+
+Video:
+Starry bg-
+https://youtu.be/6m0XpSsEfSs
+
+Code references:
+Syncing midi beats tutorial:
+https://github.com/SkyanSam/RhythmGameTutorialProject
+
+Audio Spectrum base code-
+https://github.com/coderDarren/RenaissanceCoders_UnityScripting/tree/master/UnityScripting/Assets/Tutorials/MusicSyncVisualizer
+
+Changing Sprite Color:
+https://stackoverflow.com/questions/62276574/change-color-in-unity-c-sharp-gradually
